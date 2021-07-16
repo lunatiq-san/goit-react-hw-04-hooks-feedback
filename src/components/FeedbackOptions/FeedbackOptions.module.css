@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.button {
+  width: 20%;
+  padding: 10px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
